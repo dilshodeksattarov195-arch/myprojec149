@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchptringify",
+        "uuid": 105045,
+        "checksum": "hdt2xq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
